@@ -26,4 +26,3 @@ switch session_name - switch to selected session
 ## TODO
  - test coverage
  - Windows & mac support
- - Compressing saving sessions
